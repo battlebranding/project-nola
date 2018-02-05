@@ -13,3 +13,6 @@
 
 h1, h2 { font-family: 'Playfair Display', serif; }
 hr { border-color: #EA4137; }
+.dark { background-color: #373435; }
+.dark h2 { color:#ded9cb; margin: 0 auto; padding-bottom: 40px; }
+.dark h3, .dark p { color:#ded9cb; }

@@ -72,6 +72,35 @@ get_header(); ?>
 	</div>
 </section>
 
+<section class="dark">
+	<div class="section-body has-text-centered">
+		<div class="wrapper">
+			<div class="columns is-fullwidth-on-mobile">
+				<h2>Daily Lunch Specials, Monday - Friday<br />$9 Lunch Menu</h2>
+			</div>
+			<hr class="is-small" />
+			<div class="columns is-fullwidth-on-mobile">
+				<div class="column is-one-fourth is-fullwidth-on-mobile">
+					<h3>Monday</h3>
+					<p>1/2 off Appetizers</p>
+				</div>
+				<div class="column is-one-fourth is-fullwidth-on-mobile">
+					<h3>Tuesday</h3>
+					<p>Prime Rib $15</p>
+				</div>
+				<div class="column is-one-fourth is-fullwidth-on-mobile">
+					<h3>Wednesday</h3>
+					<p>Select Seafood Entrees $12</p>
+				</div>
+				<div class="column is-one-fourth is-fullwidth-on-mobile">
+					<h3>Thursday</h3>
+					<p>1/2 off Wine &amp; 50¢ oysters</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
 <section class="restaurant has-overlay" style="background-color: #ded9cb; color: #fff; background-image: url('http://198.199.64.126/nola/wp-content/uploads/sites/2/2017/09/nola-private-dining.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center;">
 	<div class="section-body has-space-on-top has-space-on-bottom">
 		<div class="wrapper">
